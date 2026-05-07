@@ -27,3 +27,6 @@ This project is Windows-only on purpose:
 ```
 
 That avoids the broken AppxManifest error you were hitting.
+
+#Below the article illustrating the app
+https://pkey.info/knowledge-base/net-maui-stock-trading-app-sqlite/
